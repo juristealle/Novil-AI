@@ -7,7 +7,10 @@ Novil is a fast, local AI coding assistant for Windows. No API keys, no subscrip
 - **Self-Correcting:** Uses a unique "Reviewer" AI to catch its own bugs before you see them.
 - **Vision Support:** Upload screenshots or design mockups and get code back.
 
-*(Note: The Microsoft Store version is also available here: https://apps.microsoft.com/detail/9P7RN1BVNWZ4?hl=en-us&gl=PH&ocid=pdpshare*
+### 📥 Download
+[Download Novil v1.0.5 for Windows (.exe)](https://github.com/juristealle/Novil-AI/releases)
+
+*(Note: The Microsoft Store version is also available here: (https://apps.microsoft.com/detail/9P7RN1BVNWZ4?hl=en-us&gl=PH&ocid=pdpshare)*
 
 How it works
 Novil uses a human-brain architecture to plan, write, and debug code.
@@ -15,4 +18,4 @@ Novil uses a human-brain architecture to plan, write, and debug code.
 ### System Requirements
 - Windows 10/11 (64-bit)
 - 8GB RAM minimum
-- No internet connection required after setup.
+- No internet connection required after downloading local models.
